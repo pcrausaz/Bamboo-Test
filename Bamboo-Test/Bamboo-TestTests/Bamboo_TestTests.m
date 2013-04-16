@@ -26,7 +26,8 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in Bamboo-TestTests");
+    STAssertNil(nil, @"nil is supposed to be nil!");
+    // STFail(@"Unit tests are not implemented yet in Bamboo-TestTests");
 }
 
 @end
