@@ -10,5 +10,6 @@
 
 int main(int argc, char *argv[])
 {
+    fix one break another
     return NSApplicationMain(argc, (const char **)argv);
 }
